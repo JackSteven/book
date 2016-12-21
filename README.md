@@ -1,7 +1,6 @@
 # 阅读笔记
 个人阅读笔记，仅供参考。
 
-* * *
 ### 目录
 *   [把时间当作朋友](#getting-timefriend)
 *   [Git快速入门](#getting-gitstarted)
