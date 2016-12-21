@@ -2,18 +2,19 @@
 =========
 个人阅读笔记，仅供参考。
 =========
-书  名 | 阅读笔记
------ | -----
-《把时间当作朋友》| <https://github.com/JackSteven/book/blob/master/《把时间当作朋友》.md>
-《Git快速入门》| <http://www.runoob.com/git/git-tutorial.html>
+
 * * *
 ### 目录
 *   [把时间当作朋友](#getting-timefriend)
 *   [Git快速入门](#getting-gitstarted)
 
+#####  
+
 # <a name="getting-timefriend"></a>把时间当作朋友
 书  名 | 阅读笔记
 《把时间当作朋友》| <https://github.com/JackSteven/book/blob/master/《把时间当作朋友》.md>
+
+#####  
 
 # <a name="getting-gitstarted"></a>Git快速入门
 ## Git 创建仓库
