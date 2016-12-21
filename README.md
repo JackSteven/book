@@ -6,11 +6,16 @@
 ----- | -----
 《把时间当作朋友》| <https://github.com/JackSteven/book/blob/master/《把时间当作朋友》.md>
 《Git快速入门》| <http://www.runoob.com/git/git-tutorial.html>
+* * *
+### 目录
+*   [把时间当作朋友](#getting-timefriend)
+*   [Git快速入门](#getting-gitstarted)
 
+# <a name="getting-timefriend"></a>把时间当作朋友
+书  名 | 阅读笔记
+《把时间当作朋友》| <https://github.com/JackSteven/book/blob/master/《把时间当作朋友》.md>
 
-
-
-
+# <a name="getting-gitstarted"></a>Git快速入门
 ## Git 创建仓库
 git init
 Git 使用 git init 命令来初始化一个 Git 仓库，Git 的很多命令都需要在 Git 的仓库中运行，所以 git init 是使用 Git 的第一个命令。
