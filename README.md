@@ -4,6 +4,7 @@
 ### 目录
 *   [把时间当作朋友](#getting-timefriend)
 *   [Git快速入门](#getting-gitstarted)
+*   [时间管理工具](#getting-rescuetime)
 
 #####  
 
@@ -37,3 +38,7 @@ $ git add README
 $ git commit -m '初始化项目版本'
 ```
 以上命令将目录下以 .c 结尾及 README 文件提交到仓库中。
+
+
+# <a name="getting-rescuetime"></a>时间管理工具
+[工具](https://www.rescuetime.com/)
