@@ -39,6 +39,8 @@ $ git commit -m '初始化项目版本'
 ```
 以上命令将目录下以 .c 结尾及 README 文件提交到仓库中。
 
+https://github.com/937447974/Blog/tree/master/Git
+
 
 # <a name="getting-rescuetime"></a>时间管理工具
 [工具](https://www.rescuetime.com/)
