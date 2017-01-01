@@ -6,7 +6,7 @@
 *   [把时间当作朋友](#getting-timefriend)
 *   [Git快速入门](#getting-gitstarted)
 *   [时间管理工具](#getting-rescuetime)
-*   [代码整洁之道](#getting-cleancode)
+*   [代码整洁之道](#getting-cleancode)
 
 #####  
 
