@@ -7,6 +7,8 @@
 *   [Git快速入门](#getting-gitstarted)
 *   [时间管理工具](#getting-rescuetime)
 *   [代码整洁之道](#getting-cleancode)
+*   [微信小程序](#getting-weixinapp)
+
 
 #####  
 
@@ -50,3 +52,10 @@ https://github.com/937447974/Blog/tree/master/Git
 
 # <a name="getting-cleancode"></a>代码整洁之道
 2017年第一天继续自己的阅读计划，2017年第一本书。
+
+
+# <a name="getting-cleancode"></a>微信小程序
+微信小程序正式上线 能把手机应用都收到微信里去吗？
+http://news.163.com/17/0109/19/CAC4PLU100018AOQ.html
+
+
