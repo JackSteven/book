@@ -51,7 +51,7 @@ https://github.com/937447974/Blog/tree/master/Git
 
 
 # <a name="getting-cleancode"></a>代码整洁之道
-2017年第一天继续自己的阅读计划，2017年第一本书。
+2017年第一天继续自己的阅读计划，2017年第一本书。最近忙着发版本，没空上来更新读后感，糟糕的代码可以毁掉一家公司，听起来是不是很可怕。
 
 
 # <a name="getting-cleancode"></a>微信小程序
