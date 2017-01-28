@@ -8,6 +8,7 @@
 *   [时间管理工具](#getting-rescuetime)
 *   [代码整洁之道](#getting-cleancode)
 *   [微信小程序](#getting-weixinapp)
+*   [双11电子书_不一样的技术创新_完整版](#getting-11)
 
 
 #####  
@@ -89,5 +90,7 @@ http://news.163.com/17/0109/19/CAC4PLU100018AOQ.html
 http://tech.qq.com/a/20170109/000599.htm
 
 
+
+# <a name="getting-11"></a>双11电子书_不一样的技术创新_完整版_Final_1484734151317.pdf
 
 
